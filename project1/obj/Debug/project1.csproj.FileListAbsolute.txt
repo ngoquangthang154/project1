@@ -1,0 +1,6 @@
+D:\kì 6\pt web an toàn\project1\project1\bin\project1.dll.config
+D:\kì 6\pt web an toàn\project1\project1\bin\project1.dll
+D:\kì 6\pt web an toàn\project1\project1\bin\project1.pdb
+D:\kì 6\pt web an toàn\project1\project1\obj\Debug\project1.csprojResolveAssemblyReference.cache
+D:\kì 6\pt web an toàn\project1\project1\obj\Debug\project1.dll
+D:\kì 6\pt web an toàn\project1\project1\obj\Debug\project1.pdb
